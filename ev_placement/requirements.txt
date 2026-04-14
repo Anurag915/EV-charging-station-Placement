@@ -1,0 +1,7 @@
+geopandas>=0.12
+fiona>=1.9
+pyarrow>=11.0
+pandas>=1.5
+tqdm>=4.60
+shapely>=2.0
+rtree>=0.9; platform_system != 'Windows' or sys_platform == 'win32'

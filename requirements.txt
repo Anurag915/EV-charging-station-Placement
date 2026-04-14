@@ -1,0 +1,9 @@
+torch
+numpy
+matplotlib
+pandas
+streamlit
+geopandas
+shapely
+folium
+streamlit-folium

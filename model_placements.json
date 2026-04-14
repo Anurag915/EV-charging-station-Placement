@@ -1,0 +1,602 @@
+[
+  {
+    "lat": 28.735,
+    "lon": 76.9815,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.654999999999998,
+    "lon": 77.0915,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.654999999999998,
+    "lon": 77.24549999999999,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 77.0915,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 77.2235,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 77.24549999999999,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 77.2675,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.535,
+    "lon": 77.17949999999999,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.514999999999997,
+    "lon": 77.0035,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.514999999999997,
+    "lon": 77.0255,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.514999999999997,
+    "lon": 77.0475,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 77.0035,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 77.0255,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 77.0475,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.474999999999998,
+    "lon": 77.0255,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.474999999999998,
+    "lon": 77.0475,
+    "reward_score": 3.5,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.555,
+    "lon": 77.2235,
+    "reward_score": 3.4638667326283747,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.514999999999997,
+    "lon": 77.17949999999999,
+    "reward_score": 3.4210900637639723,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.755,
+    "lon": 77.0035,
+    "reward_score": 3.416549887109058,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.755,
+    "lon": 76.9375,
+    "reward_score": 3.3798287938661975,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.735,
+    "lon": 76.9375,
+    "reward_score": 3.35796051021232,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.474999999999998,
+    "lon": 77.0915,
+    "reward_score": 3.346311280462624,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.615,
+    "lon": 77.2235,
+    "reward_score": 3.2987032090020616,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 76.9815,
+    "reward_score": 3.287719108572114,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.535,
+    "lon": 77.2235,
+    "reward_score": 3.272394021758599,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 76.9155,
+    "reward_score": 3.2637964248091085,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 77.0915,
+    "reward_score": 3.25945030810031,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.514999999999997,
+    "lon": 76.9815,
+    "reward_score": 3.2553606370022603,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.535,
+    "lon": 77.0035,
+    "reward_score": 3.2515968866499163,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 76.9375,
+    "reward_score": 3.2478107693758327,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.674999999999997,
+    "lon": 77.24549999999999,
+    "reward_score": 3.242567489606584,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 76.8935,
+    "reward_score": 3.222505529901222,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.775,
+    "lon": 77.0915,
+    "reward_score": 3.197197741308928,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.514999999999997,
+    "lon": 77.1575,
+    "reward_score": 3.1685775266463154,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.474999999999998,
+    "lon": 77.06949999999999,
+    "reward_score": 3.1564788378472626,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 76.8935,
+    "reward_score": 3.137860100680186,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 77.06949999999999,
+    "reward_score": 3.123112858915291,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.514999999999997,
+    "lon": 77.06949999999999,
+    "reward_score": 3.119765686186442,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.854999999999997,
+    "lon": 76.8055,
+    "reward_score": 3.102573737834687,
+    "reward": "High"
+  },
+  {
+    "lat": 28.555,
+    "lon": 76.9155,
+    "reward_score": 3.1018713846462065,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.845,
+    "lon": 76.8055,
+    "reward_score": 3.1,
+    "reward": "High"
+  },
+  {
+    "lat": 28.794999999999998,
+    "lon": 77.0915,
+    "reward_score": 3.0920279536675292,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.654999999999998,
+    "lon": 77.06949999999999,
+    "reward_score": 3.0673970923788065,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.775,
+    "lon": 77.0035,
+    "reward_score": 3.0202309452168414,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.615,
+    "lon": 77.2675,
+    "reward_score": 3.0130473448866057,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.814999999999998,
+    "lon": 77.0915,
+    "reward_score": 2.986934079867403,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.595,
+    "lon": 77.2235,
+    "reward_score": 2.956953597171464,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.875,
+    "lon": 77.0915,
+    "reward_score": 2.9429584515170624,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.555,
+    "lon": 76.9375,
+    "reward_score": 2.9409171614816323,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.895,
+    "lon": 76.8055,
+    "reward_score": 2.9359621082968617,
+    "reward": "High"
+  },
+  {
+    "lat": 28.415,
+    "lon": 77.0915,
+    "reward_score": 2.9202672261033786,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 77.3335,
+    "reward_score": 2.917092157956593,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.595,
+    "lon": 77.2015,
+    "reward_score": 2.898959459197978,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.895,
+    "lon": 77.0915,
+    "reward_score": 2.8919566042827993,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.474999999999998,
+    "lon": 76.9155,
+    "reward_score": 2.8918222376827676,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.715,
+    "lon": 76.9375,
+    "reward_score": 2.871394106911313,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.474999999999998,
+    "lon": 76.8935,
+    "reward_score": 2.8645038855047504,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 76.8715,
+    "reward_score": 2.8622612275743027,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 76.8275,
+    "reward_score": 2.8398490614583,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.865,
+    "lon": 76.8055,
+    "reward_score": 2.8394106433976685,
+    "reward": "High"
+  },
+  {
+    "lat": 28.555,
+    "lon": 76.9815,
+    "reward_score": 2.8375406898070135,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.695,
+    "lon": 77.2235,
+    "reward_score": 2.831654165925043,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 76.9155,
+    "reward_score": 2.8173775482963377,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 77.17949999999999,
+    "reward_score": 2.806943894364521,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.735,
+    "lon": 76.9155,
+    "reward_score": 2.8019136221215035,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.695,
+    "lon": 77.24549999999999,
+    "reward_score": 2.7946670272836984,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 76.8055,
+    "reward_score": 2.7923887726329437,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.535,
+    "lon": 77.1355,
+    "reward_score": 2.7855595732828626,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.695,
+    "lon": 76.95949999999999,
+    "reward_score": 2.777073563191207,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 77.1575,
+    "reward_score": 2.772747379597411,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.634999999999998,
+    "lon": 77.0475,
+    "reward_score": 2.770900898866048,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.794999999999998,
+    "lon": 77.0035,
+    "reward_score": 2.7681411818038777,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.755,
+    "lon": 77.0255,
+    "reward_score": 2.7585552557937256,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.595,
+    "lon": 77.24549999999999,
+    "reward_score": 2.7550470069990673,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.514999999999997,
+    "lon": 76.8715,
+    "reward_score": 2.7549908072022955,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.654999999999998,
+    "lon": 77.2675,
+    "reward_score": 2.75,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.695,
+    "lon": 77.2015,
+    "reward_score": 2.744704939584527,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.884999999999998,
+    "lon": 76.8055,
+    "reward_score": 2.7321230743566556,
+    "reward": "High"
+  },
+  {
+    "lat": 28.695,
+    "lon": 76.9375,
+    "reward_score": 2.7309382054899976,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.794999999999998,
+    "lon": 76.9815,
+    "reward_score": 2.7247116269682157,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.514999999999997,
+    "lon": 77.1355,
+    "reward_score": 2.7163989635787202,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.575,
+    "lon": 76.9375,
+    "reward_score": 2.710679036649682,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.715,
+    "lon": 76.9155,
+    "reward_score": 2.7052882382111476,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.494999999999997,
+    "lon": 76.9375,
+    "reward_score": 2.6921186922846614,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.555,
+    "lon": 76.95949999999999,
+    "reward_score": 2.6877007580942194,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.575,
+    "lon": 76.9155,
+    "reward_score": 2.6819821924742935,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.535,
+    "lon": 77.1575,
+    "reward_score": 2.6795499356238155,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.814999999999998,
+    "lon": 77.0255,
+    "reward_score": 2.675454693083677,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.474999999999998,
+    "lon": 77.0035,
+    "reward_score": 2.6672436084742106,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.435,
+    "lon": 77.0035,
+    "reward_score": 2.6584959207348318,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.775,
+    "lon": 77.0255,
+    "reward_score": 2.6584304556767298,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.794999999999998,
+    "lon": 77.17949999999999,
+    "reward_score": 2.658399072053392,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.814999999999998,
+    "lon": 77.1135,
+    "reward_score": 2.653450543023526,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.474999999999998,
+    "lon": 77.1135,
+    "reward_score": 2.646426956427948,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.755,
+    "lon": 77.1575,
+    "reward_score": 2.6399194784990145,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.674999999999997,
+    "lon": 76.8935,
+    "reward_score": 2.637654280007009,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.755,
+    "lon": 77.17949999999999,
+    "reward_score": 2.6305497296113853,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.674999999999997,
+    "lon": 76.9155,
+    "reward_score": 2.619072821702452,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.695,
+    "lon": 76.8055,
+    "reward_score": 2.6074608257824954,
+    "reward": "High (Optimized)"
+  },
+  {
+    "lat": 28.875,
+    "lon": 76.8055,
+    "reward_score": 2.5,
+    "reward": "High"
+  }
+]
